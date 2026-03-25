@@ -1,7 +1,7 @@
 # Hi, I'm Daksh Trivedi 👋
 
 🎓 Computer Science Engineering Student  
-💻 Interested in Artificial Intelligence,Machine Learning, Computer Vision   
+💻 Interested in Data Analysis, Artificial Intelligence,Machine Learning, Computer Vision   
 
 ---
 
