@@ -12,7 +12,7 @@
 
 ---
 
-## 🧩 Skill Matrix
+## 🧩 Tech Stack
 
 | ⚙️ Programming | 🧪 Libraries | 🌐 Web | 🛠️ Tools |
 |--------------|-------------|--------|----------|
