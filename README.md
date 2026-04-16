@@ -1,4 +1,4 @@
-# ⚡ Daksh Trivedi — Command Hub
+# ⚡ Daksh Trivedi 
 
 > *Engineering intelligent systems with logic, data, and a bit of controlled chaos.*
 
