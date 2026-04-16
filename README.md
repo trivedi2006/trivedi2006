@@ -1,60 +1,78 @@
-# Hi, I'm Daksh Trivedi 👋
+# ⚡ Daksh Trivedi — Command Hub
+
+> *Engineering intelligent systems with logic, data, and a bit of controlled chaos.*
+
+---
+
+## 🧠 Core Identity
 
 🎓 Computer Science Engineering Student  
-💻 Interested in Data Analysis, Artificial Intelligence,Machine Learning, Computer Vision   
+💻 Focused on AI, Machine Learning & Computer Vision  
+📊 Exploring Data Analysis with real-world datasets  
 
 ---
 
-## 🚀 About Me
+## 🧩 Skill Matrix
 
-- 🌱 Currently learning **Python for AI and Machine Learning**
-- 👨‍💻 Working on **Computer Vision project**
-- 📊 Practicing **Data Analysis using Pandas**
-- 🎯 Goal: Build intelligent systems and real-world applications
-
----
-
-## 🛠️ Skills
-
-**Programming**
-- Python
-- JavaScript
-- Java
-
-**Libraries & Tools**
-- OpenCV
-- Pandas
-- NumPy
-- Git & GitHub
-
-**Web**
-- HTML
-- CSS
-- Bootstrap
+| ⚙️ Programming | 🧪 Libraries | 🌐 Web | 🛠️ Tools |
+|--------------|-------------|--------|----------|
+| Python       | OpenCV      | HTML   | Git      |
+| JavaScript   | Pandas      | CSS    | GitHub   |
+| Java         | NumPy       | Bootstrap | VS Code |
 
 ---
 
-## 📌 Projects
+## 🌌 Learning Trajectory
 
-🔹 **Face Recognition System**  
- A real-time face recognition system using Python and OpenCV.
-
-🔹 **Spam Detection**  
- A spam detection system that classifies messages as spam or not using machine learning..
-
-🔹 **SkillMatrix**  
-A system that maps and manages user skills to identify strengths and learning gaps.
+- 🌱 Currently diving into **Python for AI & Machine Learning**
+- 👁️ Building **Computer Vision systems**
+- 📊 Practicing **Data Analysis with Pandas**
+- 🎯 Mission: Create **real-world intelligent applications**
 
 ---
 
-## 📊 GitHub Stats
+## 🏗️ Featured Builds
 
-![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedi2006&show_icons=true)
+### 🔹 StreamSense
+> A content-based movie recommendation system that analyzes movie features like genre, keywords, and cast using similarity algorithms to suggest relevant films.
 
 ---
 
-## 🌐 Connect With Me
+### 🔹 Face Recognition System
+> Real-time face recognition using Python & OpenCV  
+- Detects and identifies faces live  
+- Built with computer vision fundamentals  
 
-- GitHub: https://github.com/trivedi2006
-- LinkedIn: https://www.linkedin.com/in/daksh-trivedi-57844b344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-  
+---
+
+### 🔹 Spam Detection System
+> Machine Learning-based message classifier  
+- Classifies messages into spam / not spam  
+- Uses NLP + classification models  
+
+---
+
+### 🔹 SkillMatrix
+> Skill mapping and analysis system  
+- Tracks user strengths  
+- Identifies learning gaps  
+- Helps in structured growth  
+
+---
+
+## 📊 GitHub Activity Signal
+
+![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedi2006&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect Node
+
+- 🔗 GitHub: https://github.com/trivedi2006  
+- 💼 LinkedIn: https://www.linkedin.com/in/daksh-trivedi-57844b344  
+
+---
+
+## 🧭 Philosophy
+
+> *Learn → Build → Break → Improve → Repeat*
