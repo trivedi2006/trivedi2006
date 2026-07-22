@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Daksh%20Trivedi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Intelligent%20Systems%20with%20Logic%2C%20Data%20%26%20Controlled%20Chaos&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Daksh%20Trivedi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
+
+### ⚡ Daksh Trivedi
+
+*Engineering intelligent systems with logic, data, and a bit of controlled chaos.*
+
+<br>
 
 <a href="https://github.com/trivedi2006">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=AI+%2F+ML+%2F+Computer+Vision+Enthusiast;Building+Real-World+Intelligent+Applications;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=AI+%2F+ML+%2F+Computer+Vision+Enthusiast;Building+Real-World+Intelligent+Applications;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing SVG" />
 </a>
+
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=trivedi2006&label=Profile%20Views&color=00c9ff&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/trivedi2006?label=Followers&style=for-the-badge&color=2c5364)
