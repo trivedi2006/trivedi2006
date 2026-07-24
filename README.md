@@ -62,11 +62,9 @@ My interest sits at the intersection of **software engineering fundamentals** an
 
 **AI / ML / Data Libraries**
 
-<img src="https://img.shields.io/badge/OpenCV-6a0dad?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-4b0082?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-8a2be2?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-6a0dad?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,fastapi&theme=dark" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
 
 **Tooling**
 
