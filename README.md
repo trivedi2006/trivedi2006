@@ -180,63 +180,11 @@ Brief professional description of the role and its focus.
 
 <br>
 
----
 
-## 🏆 Achievements
 
-<div align="center">
 
-| Recognition | Details |
-|---|---|
-| _Placeholder — e.g. Hackathon Winner_ | _Add event name, date, and outcome_ |
-| _Placeholder — e.g. Academic Scholarship_ | _Add awarding body and criteria_ |
 
-</div>
 
-<br>
-
----
-
-## 📜 Certifications
-
-> _No certifications were provided yet — add badges/links below once available._
-
-**AWS**
-
-_Add AWS certification badges here_
-
-**Oracle**
-
-_Add Oracle certification badges here_
-
-**NPTEL**
-
-_Add NPTEL certification badges here_
-
-**Cisco**
-
-_Add Cisco certification badges here_
-
-<br>
-
----
-
-## 💻 Coding Profiles
-
-> _Add your actual usernames to activate these badges._
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-YOUR_USERNAME-6a0dad?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeeksforGeeks-YOUR_USERNAME-4b0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-YOUR_USERNAME-8a2be2?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeChef-YOUR_USERNAME-6a0dad?style=for-the-badge&logo=codechef&logoColor=white"/>
-
-</div>
-
-<br>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -251,13 +199,6 @@ _Add Cisco certification badges here_
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=trivedi2006&theme=algolia&no-frame=true&row=1&column=6" />
-
-</div>
 
 <br>
 
@@ -271,19 +212,7 @@ _Add Cisco certification badges here_
 
 <br>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/trivedi2006/trivedi2006/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>*(Animates automatically once the Snake GitHub Action is set up on your profile repo)*</sub>
-
-</div>
-
-<br>
-
----
 
 ## 🎯 Current Focus
 
