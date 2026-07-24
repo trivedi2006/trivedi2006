@@ -119,8 +119,7 @@ A skill mapping and analysis system that tracks user strengths, identifies learn
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=trivedi2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivedi2006&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trivedi2006&theme=tokyonight&hide_border=true" />
-
+<img src="https://streak-stats.demolab.com?user=trivedi2006&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=trivedi2006&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
