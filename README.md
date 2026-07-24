@@ -62,9 +62,7 @@ My interest sits at the intersection of **software engineering fundamentals** an
 
 **AI / ML / Data Libraries**
 
-<img src="https://skillicons.dev/icons?i=opencv,sklearn,fastapi&theme=dark" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,fastapi&theme=dark" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
 
 **Tooling**
 
