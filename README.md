@@ -54,7 +54,11 @@ My interest sits at the intersection of **software engineering fundamentals** an
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
 **AI / ML / Data Libraries**
 
@@ -62,6 +66,7 @@ My interest sits at the intersection of **software engineering fundamentals** an
 <img src="https://img.shields.io/badge/Pandas-4b0082?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-8a2be2?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-6a0dad?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
 
 **Tooling**
 
@@ -70,6 +75,8 @@ My interest sits at the intersection of **software engineering fundamentals** an
 <br>
 
 ---
+
+
 
 ## 🧠 AI / ML Expertise
 
