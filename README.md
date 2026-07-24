@@ -163,20 +163,7 @@ A skill mapping and analysis system that tracks user strengths, identifies learn
 
 ---
 
-## 💼 Experience
 
-> _No professional experience entries were provided yet — add roles below in the same format._
-
-**Job Title — Company Name**
-`Month Year – Month Year`
-
-Brief professional description of the role and its focus.
-
-- Scope of work bullet point one
-- Scope of work bullet point two
-- Scope of work bullet point three
-
-`Skill1` `Skill2` `Skill3`
 
 <br>
 
