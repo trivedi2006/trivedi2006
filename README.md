@@ -94,82 +94,37 @@ My interest sits at the intersection of **software engineering fundamentals** an
 
 ## 🏗️ Featured Projects
 
-<details>
-<summary><b>🎬 StreamSense — Content-Based Movie Recommendation System</b></summary>
-<br>
+# 🧠 Context AI
 
-Analyzes genre, keywords, and cast metadata to compute similarity scores and recommend relevant films, without relying on user rating history.
+> Production-ready AI Document Intelligence Platform
 
-| Aspect | Detail |
-|---|---|
-| Stack | Python, Pandas, Scikit-learn, NLP |
-| Scale | Full movie metadata dataset, vectorized similarity matrix |
-| Performance | Cosine-similarity based recommendations, sub-second lookup |
-| Security | N/A — local dataset, no user data collected |
-| Impact | Demonstrates end-to-end content-based recommendation pipeline |
-| Repository | [View on GitHub](https://github.com/trivedi2006) |
+[![Live Demo](https://context-ai-v1.vercel.app/)
+[![Repository](https://img.shields.io/badge/REPOSITORY-GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/trivedi2006)
 
-</details>
-
-<details>
-<summary><b>👁️ Face Recognition System — Real-Time Computer Vision</b></summary>
-<br>
-
-Real-time face detection and identification pipeline built from computer vision fundamentals using OpenCV, applied to live video streams.
-
-| Aspect | Detail |
-|---|---|
-| Stack | Python, OpenCV, Computer Vision |
-| Scale | Real-time frame-by-frame video processing |
-| Performance | Live detection and identification with minimal lag |
-| Security | Local processing, no cloud data transfer |
-| Impact | Foundational CV project demonstrating detection + recognition pipeline |
-| Repository | [View on GitHub](https://github.com/trivedi2006) |
-
-</details>
-
-<details>
-<summary><b>🚫 Spam Detection System — NLP Message Classifier</b></summary>
-<br>
-
-Machine learning-based classifier separating spam from legitimate messages using NLP preprocessing and supervised classification models.
-
-| Aspect | Detail |
-|---|---|
-| Stack | Python, NLP, Machine Learning |
-| Scale | Trained on labeled SMS/email message datasets |
-| Performance | High classification accuracy on held-out test data |
-| Security | No message content persisted beyond training scope |
-| Impact | Practical demonstration of text classification for spam filtering |
-| Repository | [View on GitHub](https://github.com/trivedi2006) |
-
-</details>
-
-<details>
-<summary><b>📈 SkillMatrix — Skill Mapping & Analysis System</b></summary>
-<br>
-
-A skill mapping and analysis system that tracks user strengths, identifies learning gaps, and supports structured growth planning.
-
-| Aspect | Detail |
-|---|---|
-| Stack | Python, Data Analysis |
-| Scale | Structured skill-tracking dataset per user |
-| Performance | Fast lookup and gap analysis on structured data |
-| Security | Local data handling only |
-| Impact | Supports self-directed learning through data-backed insight |
-| Repository | [View on GitHub](https://github.com/trivedi2006) |
-
-</details>
-
-<br>
+A production-grade AI document assistant that enables users to upload documents, ask natural language questions, retrieve grounded answers, and manage persistent conversations using Retrieval-Augmented Generation (RAG).
 
 ---
 
+## ✨ Key Features
 
+- 📄 Multi-document AI Workspace
+- 💬 Persistent Chat Sessions
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔍 Semantic Search with Embeddings
+- 📚 Source-Grounded Answers
+- 🔐 JWT Authentication
+- 🌐 Google OAuth Login
+- 📁 Document Management
+- ⚡ Fast Vector Search
+- 💾 PostgreSQL + Qdrant Integration
 
-<br>
+---
 
+## ⚙ Tech Stack
+
+`React` `FastAPI` `PostgreSQL` `Qdrant` `FastEmbed` `Llama 3.3 70B` `SQLAlchemy` `Tailwind CSS`
+
+---
 
 
 
