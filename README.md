@@ -98,7 +98,7 @@ My interest sits at the intersection of **software engineering fundamentals** an
 
 > Production-ready AI Document Intelligence Platform
 
-[![Live Demo](https://context-ai-v1.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-VISIT-0EA5E9?style=for-the-badge)](https://context-ai-v1.vercel.app/)
 [![Repository](https://img.shields.io/badge/REPOSITORY-GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/trivedi2006)
 
 A production-grade AI document assistant that enables users to upload documents, ask natural language questions, retrieve grounded answers, and manage persistent conversations using Retrieval-Augmented Generation (RAG).
@@ -114,7 +114,7 @@ A production-grade AI document assistant that enables users to upload documents,
 - 📚 Source-Grounded Answers
 - 🔐 JWT Authentication
 - 🌐 Google OAuth Login
-- 📁 Document Management
+- 📁 Intelligent Document Management
 - ⚡ Fast Vector Search
 - 💾 PostgreSQL + Qdrant Integration
 
