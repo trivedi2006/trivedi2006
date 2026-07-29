@@ -125,6 +125,31 @@ A production-grade AI document assistant that enables users to upload documents,
 `React` `FastAPI` `PostgreSQL` `Qdrant` `FastEmbed` `Llama 3.3 70B` `SQLAlchemy` `Tailwind CSS`
 
 ---
+# ✈️ VoyageAI
+
+> **Production-ready AI Multi-Agent Travel Planning Platform**
+
+[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-success?style=for-the-badge)](comming soon)
+[![Repository](https://img.shields.io/badge/REPOSITORY-GitHub-24292e?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+
+An intelligent AI-powered travel planning platform that creates personalized travel itineraries using multi-agent workflows, real-time travel intelligence, and LLM-powered recommendations.
+
+---
+
+## ✨ Key Features
+
+- 🤖 Multi-Agent AI Workflow (LangGraph)
+- ✈️ Real-Time Flight Search
+- 🏨 Live Hotel Discovery
+- 🌦️ Weather-Aware Trip Planning
+- 🗺️ AI-Generated Day-wise Itineraries
+- 📍 Geocoding & Location Intelligence
+- 🌍 Currency & Timezone Support
+- 🎯 Personalized Travel Preferences
+- 🔐 JWT Authentication & Google OAuth
+- 💾 Persistent User Trips & History
+- 📄 Export & Share Travel Plans
+- ⚡ Production-Ready Full Stack Architecture
 
 
 
