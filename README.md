@@ -79,7 +79,7 @@ My interest sits at the intersection of **software engineering fundamentals** an
 <div align="center">
 
 | Domain |  Details |
-|---|---|---|
+|---|---|
 | Computer Vision |  Real-time face detection & recognition with OpenCV |
 | NLP  | Text classification for spam detection, recommendation similarity |
 | Recommendation Systems | Content-based filtering using genre/keyword/cast similarity |
