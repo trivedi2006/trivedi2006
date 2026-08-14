@@ -78,13 +78,13 @@ My interest sits at the intersection of **software engineering fundamentals** an
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Domain |  Details |
 |---|---|---|
-| Computer Vision | ⭐⭐⭐⭐ | Real-time face detection & recognition with OpenCV |
-| NLP | ⭐⭐⭐ | Text classification for spam detection, recommendation similarity |
-| Recommendation Systems | ⭐⭐⭐ | Content-based filtering using genre/keyword/cast similarity |
-| Data Analysis | ⭐⭐⭐ | Pandas-based feature extraction, skill/data mapping |
-| Classical ML | ⭐⭐⭐ | Scikit-learn classifiers for text and tabular data |
+| Computer Vision |  Real-time face detection & recognition with OpenCV |
+| NLP  | Text classification for spam detection, recommendation similarity |
+| Recommendation Systems | Content-based filtering using genre/keyword/cast similarity |
+| Data Analysis | Pandas-based feature extraction, skill/data mapping |
+| Classical ML | Scikit-learn classifiers for text and tabular data |
 
 </div>
 
